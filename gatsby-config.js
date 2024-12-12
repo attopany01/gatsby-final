@@ -15,7 +15,7 @@ module.exports = {
       summary: `A simple guide to help you use the OpenAI Playground effectively.`,
     },
     description: `The OpenAI Playground is an interactive platform for testing and exploring OpenAI's language models. It allows users to experiment with prompts, adjust settings, and perform tasks like text generation, coding assistance, and summarization.`,
-    siteUrl: `https://a01gatsby-blog.netlify.app/`,
+    siteUrl: `https://gatsby-final.netlify.app`,
     social: {
       twitter: `jeffattopany`,
     },
